@@ -1,0 +1,30 @@
+{
+  "index_patterns": [
+    "log_consultas*"
+  ],
+  "settings": {
+    "index.refresh_interval": "1s",
+    "number_of_shards": 3,
+    "number_of_replicas": 1,
+    "index.mapping.total_fields.limit": 10000
+  },
+  "mappings": {
+    "properties": {
+      "@timestamp": {
+        "type": "date"
+      },
+      "administrador": {
+        "type": "keyword"
+      },
+      "consultas_realizadas": {
+        "type": "long"
+      },
+      "estado_consulta": {
+        "type": "keyword"
+      },
+      "servicio": {
+        "type": "keyword"
+      }
+    }
+  }
+}

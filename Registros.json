@@ -1,0 +1,598 @@
+{"index":{"_index":"log_consultas","_id":1}}
+{"@timestamp":"2010-05-15T22:00:54","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":52}
+{"index":{"_index":"log_consultas","_id":2}}
+{"@timestamp":"2010-05-15T12:55:04","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":10}
+{"index":{"_index":"log_consultas","_id":3}}
+{"@timestamp":"2010-05-15T14:56:48","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":20}
+{"index":{"_index":"log_consultas","_id":4}}
+{"@timestamp":"2010-05-15T22:33:34","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":65}
+{"index":{"_index":"log_consultas","_id":5}}
+{"@timestamp":"2010-05-15T18:36:57","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":5}
+{"index":{"_index":"log_consultas","_id":6}}
+{"@timestamp":"2010-05-15T11:21:05","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":50}
+{"index":{"_index":"log_consultas","_id":7}}
+{"@timestamp":"2010-05-15T18:37:14","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":32}
+{"index":{"_index":"log_consultas","_id":8}}
+{"@timestamp":"2010-05-15T02:32:08","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":27}
+{"index":{"_index":"log_consultas","_id":9}}
+{"@timestamp":"2010-05-15T09:02:41","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":23}
+{"index":{"_index":"log_consultas","_id":10}}
+{"@timestamp":"2010-05-15T00:27:26","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":53}
+{"index":{"_index":"log_consultas","_id":11}}
+{"@timestamp":"2010-05-15T11:57:20","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":3}
+{"index":{"_index":"log_consultas","_id":12}}
+{"@timestamp":"2010-05-15T12:25:21","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":39}
+{"index":{"_index":"log_consultas","_id":13}}
+{"@timestamp":"2010-05-15T23:10:59","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":55}
+{"index":{"_index":"log_consultas","_id":14}}
+{"@timestamp":"2010-05-15T06:44:29","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":41}
+{"index":{"_index":"log_consultas","_id":15}}
+{"@timestamp":"2010-05-15T11:16:13","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":15}
+{"index":{"_index":"log_consultas","_id":16}}
+{"@timestamp":"2010-05-15T02:46:41","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":26}
+{"index":{"_index":"log_consultas","_id":17}}
+{"@timestamp":"2010-05-15T08:51:32","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":40}
+{"index":{"_index":"log_consultas","_id":18}}
+{"@timestamp":"2010-05-15T18:37:49","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":19}}
+{"@timestamp":"2010-05-15T22:07:57","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":5}
+{"index":{"_index":"log_consultas","_id":20}}
+{"@timestamp":"2010-05-15T19:03:27","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":15}
+{"index":{"_index":"log_consultas","_id":21}}
+{"@timestamp":"2010-05-15T12:57:33","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":6}
+{"index":{"_index":"log_consultas","_id":22}}
+{"@timestamp":"2010-05-15T05:05:42","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":10}
+{"index":{"_index":"log_consultas","_id":23}}
+{"@timestamp":"2010-05-15T13:19:42","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":69}
+{"index":{"_index":"log_consultas","_id":24}}
+{"@timestamp":"2010-05-15T10:43:06","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":42}
+{"index":{"_index":"log_consultas","_id":25}}
+{"@timestamp":"2010-05-15T23:09:17","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":57}
+{"index":{"_index":"log_consultas","_id":26}}
+{"@timestamp":"2010-05-15T11:41:03","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":58}
+{"index":{"_index":"log_consultas","_id":27}}
+{"@timestamp":"2010-05-15T03:25:53","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":5}
+{"index":{"_index":"log_consultas","_id":28}}
+{"@timestamp":"2010-05-15T07:08:09","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":65}
+{"index":{"_index":"log_consultas","_id":29}}
+{"@timestamp":"2010-05-15T13:45:27","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":73}
+{"index":{"_index":"log_consultas","_id":30}}
+{"@timestamp":"2010-05-15T10:21:34","estado_consulta":"error","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":11}
+{"index":{"_index":"log_consultas","_id":31}}
+{"@timestamp":"2010-05-15T19:17:00","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":13}
+{"index":{"_index":"log_consultas","_id":32}}
+{"@timestamp":"2010-05-15T02:00:09","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":10}
+{"index":{"_index":"log_consultas","_id":33}}
+{"@timestamp":"2010-05-15T13:06:39","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":62}
+{"index":{"_index":"log_consultas","_id":34}}
+{"@timestamp":"2010-05-15T22:04:41","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":5}
+{"index":{"_index":"log_consultas","_id":35}}
+{"@timestamp":"2010-05-15T18:56:06","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":36}
+{"index":{"_index":"log_consultas","_id":36}}
+{"@timestamp":"2010-05-15T12:23:16","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":7}
+{"index":{"_index":"log_consultas","_id":37}}
+{"@timestamp":"2010-05-15T07:06:06","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":38}}
+{"@timestamp":"2010-05-15T18:42:52","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":62}
+{"index":{"_index":"log_consultas","_id":39}}
+{"@timestamp":"2010-05-15T18:36:57","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":25}
+{"index":{"_index":"log_consultas","_id":40}}
+{"@timestamp":"2010-05-15T06:05:25","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":6}
+{"index":{"_index":"log_consultas","_id":41}}
+{"@timestamp":"2010-05-15T02:03:30","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":70}
+{"index":{"_index":"log_consultas","_id":42}}
+{"@timestamp":"2010-05-15T11:31:16","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":26}
+{"index":{"_index":"log_consultas","_id":43}}
+{"@timestamp":"2010-05-15T04:47:03","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":20}
+{"index":{"_index":"log_consultas","_id":44}}
+{"@timestamp":"2010-05-15T15:33:33","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":74}
+{"index":{"_index":"log_consultas","_id":45}}
+{"@timestamp":"2010-05-15T08:32:51","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":46}}
+{"@timestamp":"2010-05-15T06:00:09","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":72}
+{"index":{"_index":"log_consultas","_id":47}}
+{"@timestamp":"2010-05-15T03:32:27","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":48}}
+{"@timestamp":"2010-05-15T23:55:45","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":49}}
+{"@timestamp":"2010-05-15T05:25:37","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":47}
+{"index":{"_index":"log_consultas","_id":50}}
+{"@timestamp":"2010-05-15T03:21:26","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":36}
+{"index":{"_index":"log_consultas","_id":51}}
+{"@timestamp":"2010-05-15T10:04:41","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":52}}
+{"@timestamp":"2010-05-15T17:02:14","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":28}
+{"index":{"_index":"log_consultas","_id":53}}
+{"@timestamp":"2010-05-15T10:51:13","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":54}}
+{"@timestamp":"2010-05-15T17:33:56","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":18}
+{"index":{"_index":"log_consultas","_id":55}}
+{"@timestamp":"2010-05-15T00:52:21","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":51}
+{"index":{"_index":"log_consultas","_id":56}}
+{"@timestamp":"2010-05-15T07:23:24","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":58}
+{"index":{"_index":"log_consultas","_id":57}}
+{"@timestamp":"2010-05-15T02:34:28","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":58}}
+{"@timestamp":"2010-05-15T22:09:32","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":49}
+{"index":{"_index":"log_consultas","_id":59}}
+{"@timestamp":"2010-05-15T07:19:26","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":60}}
+{"@timestamp":"2010-05-15T13:26:41","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":64}
+{"index":{"_index":"log_consultas","_id":61}}
+{"@timestamp":"2010-05-15T08:27:43","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":35}
+{"index":{"_index":"log_consultas","_id":62}}
+{"@timestamp":"2010-05-15T09:06:11","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":14}
+{"index":{"_index":"log_consultas","_id":63}}
+{"@timestamp":"2010-05-15T13:06:37","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":4}
+{"index":{"_index":"log_consultas","_id":64}}
+{"@timestamp":"2010-05-15T13:02:08","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":74}
+{"index":{"_index":"log_consultas","_id":65}}
+{"@timestamp":"2010-05-15T12:10:55","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":37}
+{"index":{"_index":"log_consultas","_id":66}}
+{"@timestamp":"2010-05-15T04:39:58","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":67}}
+{"@timestamp":"2010-05-15T07:44:22","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":28}
+{"index":{"_index":"log_consultas","_id":68}}
+{"@timestamp":"2010-05-15T20:20:21","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":3}
+{"index":{"_index":"log_consultas","_id":69}}
+{"@timestamp":"2010-05-15T13:34:49","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":70}}
+{"@timestamp":"2010-05-15T15:25:19","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":59}
+{"index":{"_index":"log_consultas","_id":71}}
+{"@timestamp":"2010-05-15T02:07:12","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":46}
+{"index":{"_index":"log_consultas","_id":72}}
+{"@timestamp":"2010-05-15T10:22:48","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":5}
+{"index":{"_index":"log_consultas","_id":73}}
+{"@timestamp":"2010-05-15T20:22:08","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":68}
+{"index":{"_index":"log_consultas","_id":74}}
+{"@timestamp":"2010-05-15T09:48:48","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":61}
+{"index":{"_index":"log_consultas","_id":75}}
+{"@timestamp":"2010-05-15T19:15:01","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":76}}
+{"@timestamp":"2010-05-15T11:30:15","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":31}
+{"index":{"_index":"log_consultas","_id":77}}
+{"@timestamp":"2010-05-15T04:48:34","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":11}
+{"index":{"_index":"log_consultas","_id":78}}
+{"@timestamp":"2010-05-15T01:39:15","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":66}
+{"index":{"_index":"log_consultas","_id":79}}
+{"@timestamp":"2010-05-15T11:38:06","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":54}
+{"index":{"_index":"log_consultas","_id":80}}
+{"@timestamp":"2010-05-15T12:02:21","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":81}}
+{"@timestamp":"2010-05-15T21:30:06","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":44}
+{"index":{"_index":"log_consultas","_id":82}}
+{"@timestamp":"2010-05-15T13:46:36","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":43}
+{"index":{"_index":"log_consultas","_id":83}}
+{"@timestamp":"2010-05-15T18:31:08","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":56}
+{"index":{"_index":"log_consultas","_id":84}}
+{"@timestamp":"2010-05-15T16:28:19","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":70}
+{"index":{"_index":"log_consultas","_id":85}}
+{"@timestamp":"2010-05-15T17:20:20","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":86}}
+{"@timestamp":"2010-05-15T05:30:26","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":29}
+{"index":{"_index":"log_consultas","_id":87}}
+{"@timestamp":"2010-05-15T23:44:36","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":45}
+{"index":{"_index":"log_consultas","_id":88}}
+{"@timestamp":"2010-05-15T03:38:30","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":2}
+{"index":{"_index":"log_consultas","_id":89}}
+{"@timestamp":"2010-05-15T13:42:52","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":90}}
+{"@timestamp":"2010-05-15T07:41:24","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":72}
+{"index":{"_index":"log_consultas","_id":91}}
+{"@timestamp":"2010-05-15T05:03:02","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":2}
+{"index":{"_index":"log_consultas","_id":92}}
+{"@timestamp":"2010-05-15T09:00:53","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":37}
+{"index":{"_index":"log_consultas","_id":93}}
+{"@timestamp":"2010-05-15T17:49:10","estado_consulta":"error","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":11}
+{"index":{"_index":"log_consultas","_id":94}}
+{"@timestamp":"2010-05-15T07:18:24","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":4}
+{"index":{"_index":"log_consultas","_id":95}}
+{"@timestamp":"2010-05-15T21:57:26","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":43}
+{"index":{"_index":"log_consultas","_id":96}}
+{"@timestamp":"2010-05-15T02:51:42","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":59}
+{"index":{"_index":"log_consultas","_id":97}}
+{"@timestamp":"2010-05-15T04:38:55","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":98}}
+{"@timestamp":"2010-05-15T01:50:38","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":71}
+{"index":{"_index":"log_consultas","_id":99}}
+{"@timestamp":"2010-05-15T05:46:54","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":9}
+{"index":{"_index":"log_consultas","_id":100}}
+{"@timestamp":"2010-05-15T00:02:43","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":37}
+{"index":{"_index":"log_consultas","_id":101}}
+{"@timestamp":"2010-05-15T00:35:22","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":31}
+{"index":{"_index":"log_consultas","_id":102}}
+{"@timestamp":"2010-05-15T11:49:00","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":103}}
+{"@timestamp":"2010-05-15T14:09:55","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":60}
+{"index":{"_index":"log_consultas","_id":104}}
+{"@timestamp":"2010-05-15T01:10:03","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":43}
+{"index":{"_index":"log_consultas","_id":105}}
+{"@timestamp":"2010-05-15T04:38:27","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":36}
+{"index":{"_index":"log_consultas","_id":106}}
+{"@timestamp":"2010-05-15T19:05:36","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":17}
+{"index":{"_index":"log_consultas","_id":107}}
+{"@timestamp":"2010-05-15T06:40:29","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":38}
+{"index":{"_index":"log_consultas","_id":108}}
+{"@timestamp":"2010-05-15T09:22:44","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":109}}
+{"@timestamp":"2010-05-15T18:43:22","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":47}
+{"index":{"_index":"log_consultas","_id":110}}
+{"@timestamp":"2010-05-15T03:50:08","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":0}
+{"index":{"_index":"log_consultas","_id":111}}
+{"@timestamp":"2010-05-15T16:44:38","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":0}
+{"index":{"_index":"log_consultas","_id":112}}
+{"@timestamp":"2010-05-15T00:23:24","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":46}
+{"index":{"_index":"log_consultas","_id":113}}
+{"@timestamp":"2010-05-15T17:18:04","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":114}}
+{"@timestamp":"2010-05-15T22:50:01","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":57}
+{"index":{"_index":"log_consultas","_id":115}}
+{"@timestamp":"2010-05-15T04:00:04","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":116}}
+{"@timestamp":"2010-05-15T17:42:39","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":35}
+{"index":{"_index":"log_consultas","_id":117}}
+{"@timestamp":"2010-05-15T02:17:46","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":74}
+{"index":{"_index":"log_consultas","_id":118}}
+{"@timestamp":"2010-05-15T16:34:12","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":16}
+{"index":{"_index":"log_consultas","_id":119}}
+{"@timestamp":"2010-05-15T05:29:14","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":64}
+{"index":{"_index":"log_consultas","_id":120}}
+{"@timestamp":"2010-05-15T07:41:54","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":63}
+{"index":{"_index":"log_consultas","_id":121}}
+{"@timestamp":"2010-05-15T21:12:57","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":122}}
+{"@timestamp":"2010-05-15T08:36:56","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":39}
+{"index":{"_index":"log_consultas","_id":123}}
+{"@timestamp":"2010-05-15T14:34:42","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":61}
+{"index":{"_index":"log_consultas","_id":124}}
+{"@timestamp":"2010-05-15T01:11:33","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":55}
+{"index":{"_index":"log_consultas","_id":125}}
+{"@timestamp":"2010-05-15T16:14:35","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":57}
+{"index":{"_index":"log_consultas","_id":126}}
+{"@timestamp":"2010-05-15T03:45:07","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":17}
+{"index":{"_index":"log_consultas","_id":127}}
+{"@timestamp":"2010-05-15T00:58:46","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":55}
+{"index":{"_index":"log_consultas","_id":128}}
+{"@timestamp":"2010-05-15T03:40:36","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":52}
+{"index":{"_index":"log_consultas","_id":129}}
+{"@timestamp":"2010-05-15T04:50:53","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":46}
+{"index":{"_index":"log_consultas","_id":130}}
+{"@timestamp":"2010-05-15T18:02:40","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":43}
+{"index":{"_index":"log_consultas","_id":131}}
+{"@timestamp":"2010-05-15T21:42:54","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":6}
+{"index":{"_index":"log_consultas","_id":132}}
+{"@timestamp":"2010-05-15T16:33:12","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":133}}
+{"@timestamp":"2010-05-15T05:50:07","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":39}
+{"index":{"_index":"log_consultas","_id":134}}
+{"@timestamp":"2010-05-15T05:37:23","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":28}
+{"index":{"_index":"log_consultas","_id":135}}
+{"@timestamp":"2010-05-15T14:35:12","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":17}
+{"index":{"_index":"log_consultas","_id":136}}
+{"@timestamp":"2010-05-15T07:31:11","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":63}
+{"index":{"_index":"log_consultas","_id":137}}
+{"@timestamp":"2010-05-15T15:57:40","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":39}
+{"index":{"_index":"log_consultas","_id":138}}
+{"@timestamp":"2010-05-15T10:05:32","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":9}
+{"index":{"_index":"log_consultas","_id":139}}
+{"@timestamp":"2010-05-15T14:27:00","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":31}
+{"index":{"_index":"log_consultas","_id":140}}
+{"@timestamp":"2010-05-15T17:40:52","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":10}
+{"index":{"_index":"log_consultas","_id":141}}
+{"@timestamp":"2010-05-15T16:40:37","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":142}}
+{"@timestamp":"2010-05-15T11:47:05","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":143}}
+{"@timestamp":"2010-05-15T21:31:13","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":43}
+{"index":{"_index":"log_consultas","_id":144}}
+{"@timestamp":"2010-05-15T13:18:29","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":50}
+{"index":{"_index":"log_consultas","_id":145}}
+{"@timestamp":"2010-05-15T05:37:12","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":17}
+{"index":{"_index":"log_consultas","_id":146}}
+{"@timestamp":"2010-05-15T08:28:35","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":4}
+{"index":{"_index":"log_consultas","_id":147}}
+{"@timestamp":"2010-05-15T23:15:58","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":32}
+{"index":{"_index":"log_consultas","_id":148}}
+{"@timestamp":"2010-05-15T23:19:46","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":149}}
+{"@timestamp":"2010-05-15T14:39:30","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":50}
+{"index":{"_index":"log_consultas","_id":150}}
+{"@timestamp":"2010-05-15T22:54:28","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":54}
+{"index":{"_index":"log_consultas","_id":151}}
+{"@timestamp":"2010-05-15T17:56:07","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":49}
+{"index":{"_index":"log_consultas","_id":152}}
+{"@timestamp":"2010-05-15T06:29:24","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":54}
+{"index":{"_index":"log_consultas","_id":153}}
+{"@timestamp":"2010-05-15T13:20:55","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":14}
+{"index":{"_index":"log_consultas","_id":154}}
+{"@timestamp":"2010-05-15T04:55:36","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":51}
+{"index":{"_index":"log_consultas","_id":155}}
+{"@timestamp":"2010-05-15T06:38:05","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":62}
+{"index":{"_index":"log_consultas","_id":156}}
+{"@timestamp":"2010-05-15T14:56:35","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":58}
+{"index":{"_index":"log_consultas","_id":157}}
+{"@timestamp":"2010-05-15T03:36:34","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":158}}
+{"@timestamp":"2010-05-15T13:16:26","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":61}
+{"index":{"_index":"log_consultas","_id":159}}
+{"@timestamp":"2010-05-15T10:20:25","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":47}
+{"index":{"_index":"log_consultas","_id":160}}
+{"@timestamp":"2010-05-15T04:17:26","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":16}
+{"index":{"_index":"log_consultas","_id":161}}
+{"@timestamp":"2010-05-15T22:52:49","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":162}}
+{"@timestamp":"2010-05-15T21:54:46","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":62}
+{"index":{"_index":"log_consultas","_id":163}}
+{"@timestamp":"2010-05-15T07:45:54","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":44}
+{"index":{"_index":"log_consultas","_id":164}}
+{"@timestamp":"2010-05-15T09:15:10","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":29}
+{"index":{"_index":"log_consultas","_id":165}}
+{"@timestamp":"2010-05-15T01:31:57","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":16}
+{"index":{"_index":"log_consultas","_id":166}}
+{"@timestamp":"2010-05-15T03:18:56","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":63}
+{"index":{"_index":"log_consultas","_id":167}}
+{"@timestamp":"2010-05-15T04:14:03","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":53}
+{"index":{"_index":"log_consultas","_id":168}}
+{"@timestamp":"2010-05-15T00:26:17","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":25}
+{"index":{"_index":"log_consultas","_id":169}}
+{"@timestamp":"2010-05-15T00:59:04","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":43}
+{"index":{"_index":"log_consultas","_id":170}}
+{"@timestamp":"2010-05-15T16:07:52","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":2}
+{"index":{"_index":"log_consultas","_id":171}}
+{"@timestamp":"2010-05-15T00:41:53","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":64}
+{"index":{"_index":"log_consultas","_id":172}}
+{"@timestamp":"2010-05-15T14:24:29","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":173}}
+{"@timestamp":"2010-05-15T22:47:44","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":29}
+{"index":{"_index":"log_consultas","_id":174}}
+{"@timestamp":"2010-05-15T09:48:54","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":24}
+{"index":{"_index":"log_consultas","_id":175}}
+{"@timestamp":"2010-05-15T07:08:36","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":21}
+{"index":{"_index":"log_consultas","_id":176}}
+{"@timestamp":"2010-05-15T16:15:56","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":3}
+{"index":{"_index":"log_consultas","_id":177}}
+{"@timestamp":"2010-05-15T21:43:27","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":56}
+{"index":{"_index":"log_consultas","_id":178}}
+{"@timestamp":"2010-05-15T11:41:55","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":22}
+{"index":{"_index":"log_consultas","_id":179}}
+{"@timestamp":"2010-05-15T14:18:17","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":31}
+{"index":{"_index":"log_consultas","_id":180}}
+{"@timestamp":"2010-05-15T00:05:12","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":47}
+{"index":{"_index":"log_consultas","_id":181}}
+{"@timestamp":"2010-05-15T13:44:13","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":65}
+{"index":{"_index":"log_consultas","_id":182}}
+{"@timestamp":"2010-05-15T09:10:14","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":1}
+{"index":{"_index":"log_consultas","_id":183}}
+{"@timestamp":"2010-05-15T18:12:12","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":70}
+{"index":{"_index":"log_consultas","_id":184}}
+{"@timestamp":"2010-05-15T12:46:31","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":13}
+{"index":{"_index":"log_consultas","_id":185}}
+{"@timestamp":"2010-05-15T14:11:16","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":63}
+{"index":{"_index":"log_consultas","_id":186}}
+{"@timestamp":"2010-05-15T18:44:24","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":11}
+{"index":{"_index":"log_consultas","_id":187}}
+{"@timestamp":"2010-05-15T20:20:36","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":44}
+{"index":{"_index":"log_consultas","_id":188}}
+{"@timestamp":"2010-05-15T03:59:06","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":25}
+{"index":{"_index":"log_consultas","_id":189}}
+{"@timestamp":"2010-05-15T23:08:03","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":22}
+{"index":{"_index":"log_consultas","_id":190}}
+{"@timestamp":"2010-05-15T17:25:33","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":14}
+{"index":{"_index":"log_consultas","_id":191}}
+{"@timestamp":"2010-05-15T01:36:18","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":192}}
+{"@timestamp":"2010-05-15T16:03:39","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":193}}
+{"@timestamp":"2010-05-15T20:37:44","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":44}
+{"index":{"_index":"log_consultas","_id":194}}
+{"@timestamp":"2010-05-15T22:12:21","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":0}
+{"index":{"_index":"log_consultas","_id":195}}
+{"@timestamp":"2010-05-15T05:57:17","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":58}
+{"index":{"_index":"log_consultas","_id":196}}
+{"@timestamp":"2010-05-15T14:57:32","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":68}
+{"index":{"_index":"log_consultas","_id":197}}
+{"@timestamp":"2010-05-15T02:50:50","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":3}
+{"index":{"_index":"log_consultas","_id":198}}
+{"@timestamp":"2010-05-15T01:15:21","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":73}
+{"index":{"_index":"log_consultas","_id":199}}
+{"@timestamp":"2010-05-15T11:57:15","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":63}
+{"index":{"_index":"log_consultas","_id":200}}
+{"@timestamp":"2010-05-15T10:14:03","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":70}
+{"index":{"_index":"log_consultas","_id":201}}
+{"@timestamp":"2010-05-15T23:59:52","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":26}
+{"index":{"_index":"log_consultas","_id":202}}
+{"@timestamp":"2010-05-15T15:30:30","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":203}}
+{"@timestamp":"2010-05-15T16:54:56","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":64}
+{"index":{"_index":"log_consultas","_id":204}}
+{"@timestamp":"2010-05-15T20:58:08","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":205}}
+{"@timestamp":"2010-05-15T07:53:14","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":3}
+{"index":{"_index":"log_consultas","_id":206}}
+{"@timestamp":"2010-05-15T00:18:39","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":60}
+{"index":{"_index":"log_consultas","_id":207}}
+{"@timestamp":"2010-05-15T08:26:54","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":7}
+{"index":{"_index":"log_consultas","_id":208}}
+{"@timestamp":"2010-05-15T19:59:03","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":16}
+{"index":{"_index":"log_consultas","_id":209}}
+{"@timestamp":"2010-05-15T12:20:35","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":62}
+{"index":{"_index":"log_consultas","_id":210}}
+{"@timestamp":"2010-05-15T03:48:28","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":211}}
+{"@timestamp":"2010-05-15T18:05:28","estado_consulta":"error","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":212}}
+{"@timestamp":"2010-05-15T13:49:56","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":68}
+{"index":{"_index":"log_consultas","_id":213}}
+{"@timestamp":"2010-05-15T10:55:16","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":41}
+{"index":{"_index":"log_consultas","_id":214}}
+{"@timestamp":"2010-05-15T17:21:24","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":7}
+{"index":{"_index":"log_consultas","_id":215}}
+{"@timestamp":"2010-05-15T13:08:02","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":46}
+{"index":{"_index":"log_consultas","_id":216}}
+{"@timestamp":"2010-05-15T07:38:45","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":13}
+{"index":{"_index":"log_consultas","_id":217}}
+{"@timestamp":"2010-05-15T15:33:05","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":7}
+{"index":{"_index":"log_consultas","_id":218}}
+{"@timestamp":"2010-05-15T11:06:10","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":219}}
+{"@timestamp":"2010-05-15T05:46:25","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":67}
+{"index":{"_index":"log_consultas","_id":220}}
+{"@timestamp":"2010-05-15T19:24:34","estado_consulta":"error","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":27}
+{"index":{"_index":"log_consultas","_id":221}}
+{"@timestamp":"2010-05-15T15:50:27","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":222}}
+{"@timestamp":"2010-05-15T18:35:31","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":38}
+{"index":{"_index":"log_consultas","_id":223}}
+{"@timestamp":"2010-05-15T23:14:11","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":74}
+{"index":{"_index":"log_consultas","_id":224}}
+{"@timestamp":"2010-05-15T08:05:20","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":225}}
+{"@timestamp":"2010-05-15T15:12:15","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":6}
+{"index":{"_index":"log_consultas","_id":226}}
+{"@timestamp":"2010-05-15T15:37:03","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":41}
+{"index":{"_index":"log_consultas","_id":227}}
+{"@timestamp":"2010-05-15T16:22:58","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":17}
+{"index":{"_index":"log_consultas","_id":228}}
+{"@timestamp":"2010-05-15T21:41:59","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":29}
+{"index":{"_index":"log_consultas","_id":229}}
+{"@timestamp":"2010-05-15T15:36:37","estado_consulta":"error","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":7}
+{"index":{"_index":"log_consultas","_id":230}}
+{"@timestamp":"2010-05-15T07:48:35","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":16}
+{"index":{"_index":"log_consultas","_id":231}}
+{"@timestamp":"2010-05-15T03:13:37","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":9}
+{"index":{"_index":"log_consultas","_id":232}}
+{"@timestamp":"2010-05-15T17:38:53","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":59}
+{"index":{"_index":"log_consultas","_id":233}}
+{"@timestamp":"2010-05-15T16:24:18","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":39}
+{"index":{"_index":"log_consultas","_id":234}}
+{"@timestamp":"2010-05-15T08:30:13","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":55}
+{"index":{"_index":"log_consultas","_id":235}}
+{"@timestamp":"2010-05-15T07:58:55","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":41}
+{"index":{"_index":"log_consultas","_id":236}}
+{"@timestamp":"2010-05-15T08:29:25","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":54}
+{"index":{"_index":"log_consultas","_id":237}}
+{"@timestamp":"2010-05-15T06:03:35","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":42}
+{"index":{"_index":"log_consultas","_id":238}}
+{"@timestamp":"2010-05-15T15:01:06","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":52}
+{"index":{"_index":"log_consultas","_id":239}}
+{"@timestamp":"2010-05-15T10:20:56","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":16}
+{"index":{"_index":"log_consultas","_id":240}}
+{"@timestamp":"2010-05-15T13:17:15","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":10}
+{"index":{"_index":"log_consultas","_id":241}}
+{"@timestamp":"2010-05-15T01:51:01","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":22}
+{"index":{"_index":"log_consultas","_id":242}}
+{"@timestamp":"2010-05-15T06:02:11","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":72}
+{"index":{"_index":"log_consultas","_id":243}}
+{"@timestamp":"2010-05-15T22:59:41","estado_consulta":"error","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":244}}
+{"@timestamp":"2010-05-15T15:35:50","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":72}
+{"index":{"_index":"log_consultas","_id":245}}
+{"@timestamp":"2010-05-15T07:23:33","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":46}
+{"index":{"_index":"log_consultas","_id":246}}
+{"@timestamp":"2010-05-15T20:36:38","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":26}
+{"index":{"_index":"log_consultas","_id":247}}
+{"@timestamp":"2010-05-15T02:56:14","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":3}
+{"index":{"_index":"log_consultas","_id":248}}
+{"@timestamp":"2010-05-15T14:44:30","estado_consulta":"error","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":25}
+{"index":{"_index":"log_consultas","_id":249}}
+{"@timestamp":"2010-05-15T11:39:37","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":28}
+{"index":{"_index":"log_consultas","_id":250}}
+{"@timestamp":"2010-05-15T06:18:15","estado_consulta":"error","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":3}
+{"index":{"_index":"log_consultas","_id":251}}
+{"@timestamp":"2010-05-15T14:04:22","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":40}
+{"index":{"_index":"log_consultas","_id":252}}
+{"@timestamp":"2010-05-15T16:17:27","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":12}
+{"index":{"_index":"log_consultas","_id":253}}
+{"@timestamp":"2010-05-15T10:23:28","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":54}
+{"index":{"_index":"log_consultas","_id":254}}
+{"@timestamp":"2010-05-15T07:25:04","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":38}
+{"index":{"_index":"log_consultas","_id":255}}
+{"@timestamp":"2010-05-15T23:34:20","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":7}
+{"index":{"_index":"log_consultas","_id":256}}
+{"@timestamp":"2010-05-15T05:36:06","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":38}
+{"index":{"_index":"log_consultas","_id":257}}
+{"@timestamp":"2010-05-15T04:22:18","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":31}
+{"index":{"_index":"log_consultas","_id":258}}
+{"@timestamp":"2010-05-15T07:20:36","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":55}
+{"index":{"_index":"log_consultas","_id":259}}
+{"@timestamp":"2010-05-15T04:08:44","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":44}
+{"index":{"_index":"log_consultas","_id":260}}
+{"@timestamp":"2010-05-15T17:58:32","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":30}
+{"index":{"_index":"log_consultas","_id":261}}
+{"@timestamp":"2010-05-15T15:11:57","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":71}
+{"index":{"_index":"log_consultas","_id":262}}
+{"@timestamp":"2010-05-15T05:41:12","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":1}
+{"index":{"_index":"log_consultas","_id":263}}
+{"@timestamp":"2010-05-15T22:35:51","estado_consulta":"informativo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":33}
+{"index":{"_index":"log_consultas","_id":264}}
+{"@timestamp":"2010-05-15T00:59:25","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":71}
+{"index":{"_index":"log_consultas","_id":265}}
+{"@timestamp":"2010-05-15T04:23:31","estado_consulta":"error","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":266}}
+{"@timestamp":"2010-05-15T17:28:47","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":34}
+{"index":{"_index":"log_consultas","_id":267}}
+{"@timestamp":"2010-05-15T11:42:10","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":74}
+{"index":{"_index":"log_consultas","_id":268}}
+{"@timestamp":"2010-05-15T19:23:14","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":27}
+{"index":{"_index":"log_consultas","_id":269}}
+{"@timestamp":"2010-05-15T10:43:52","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":59}
+{"index":{"_index":"log_consultas","_id":270}}
+{"@timestamp":"2010-05-15T08:21:15","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":17}
+{"index":{"_index":"log_consultas","_id":271}}
+{"@timestamp":"2010-05-15T06:03:57","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":54}
+{"index":{"_index":"log_consultas","_id":272}}
+{"@timestamp":"2010-05-15T19:35:32","estado_consulta":"error","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":13}
+{"index":{"_index":"log_consultas","_id":273}}
+{"@timestamp":"2010-05-15T01:28:23","estado_consulta":"informativo","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":33}
+{"index":{"_index":"log_consultas","_id":274}}
+{"@timestamp":"2010-05-15T05:04:51","estado_consulta":"consumo","servicio":"consulta","administrador":"Juan Carlos","consultas_realizadas":64}
+{"index":{"_index":"log_consultas","_id":275}}
+{"@timestamp":"2010-05-15T03:25:53","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":32}
+{"index":{"_index":"log_consultas","_id":276}}
+{"@timestamp":"2010-05-15T00:06:24","estado_consulta":"consumo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":277}}
+{"@timestamp":"2010-05-15T20:51:28","estado_consulta":"error","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":65}
+{"index":{"_index":"log_consultas","_id":278}}
+{"@timestamp":"2010-05-15T06:39:53","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":279}}
+{"@timestamp":"2010-05-15T23:21:15","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":42}
+{"index":{"_index":"log_consultas","_id":280}}
+{"@timestamp":"2010-05-15T06:15:06","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":66}
+{"index":{"_index":"log_consultas","_id":281}}
+{"@timestamp":"2010-05-15T00:13:42","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":55}
+{"index":{"_index":"log_consultas","_id":282}}
+{"@timestamp":"2010-05-15T07:32:45","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":21}
+{"index":{"_index":"log_consultas","_id":283}}
+{"@timestamp":"2010-05-15T06:41:38","estado_consulta":"informativo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":9}
+{"index":{"_index":"log_consultas","_id":284}}
+{"@timestamp":"2010-05-15T10:40:16","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":30}
+{"index":{"_index":"log_consultas","_id":285}}
+{"@timestamp":"2010-05-15T11:36:27","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":62}
+{"index":{"_index":"log_consultas","_id":286}}
+{"@timestamp":"2010-05-15T01:37:31","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":8}
+{"index":{"_index":"log_consultas","_id":287}}
+{"@timestamp":"2010-05-15T05:15:58","estado_consulta":"informativo","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":2}
+{"index":{"_index":"log_consultas","_id":288}}
+{"@timestamp":"2010-05-15T16:33:17","estado_consulta":"error","servicio":"consulta","administrador":"Juan Lara","consultas_realizadas":57}
+{"index":{"_index":"log_consultas","_id":289}}
+{"@timestamp":"2010-05-15T20:12:22","estado_consulta":"consumo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":68}
+{"index":{"_index":"log_consultas","_id":290}}
+{"@timestamp":"2010-05-15T04:57:25","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":15}
+{"index":{"_index":"log_consultas","_id":291}}
+{"@timestamp":"2010-05-15T20:50:37","estado_consulta":"consumo","servicio":"consulta","administrador":"Carlos Lara","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":292}}
+{"@timestamp":"2010-05-15T14:11:32","estado_consulta":"consumo","servicio":"modificacion","administrador":"Juan Carlos","consultas_realizadas":51}
+{"index":{"_index":"log_consultas","_id":293}}
+{"@timestamp":"2010-05-15T04:58:54","estado_consulta":"error","servicio":"modificacion","administrador":"Carlos Lara","consultas_realizadas":68}
+{"index":{"_index":"log_consultas","_id":294}}
+{"@timestamp":"2010-05-15T15:09:40","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":30}
+{"index":{"_index":"log_consultas","_id":295}}
+{"@timestamp":"2010-05-15T10:40:03","estado_consulta":"consumo","servicio":"borrado","administrador":"Carlos Lara","consultas_realizadas":9}
+{"index":{"_index":"log_consultas","_id":296}}
+{"@timestamp":"2010-05-15T21:52:15","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":40}
+{"index":{"_index":"log_consultas","_id":297}}
+{"@timestamp":"2010-05-15T04:40:41","estado_consulta":"informativo","servicio":"modificacion","administrador":"Juan Lara","consultas_realizadas":19}
+{"index":{"_index":"log_consultas","_id":298}}
+{"@timestamp":"2010-05-15T07:35:51","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Lara","consultas_realizadas":14}
+{"index":{"_index":"log_consultas","_id":299}}
+{"@timestamp":"2010-05-15T18:36:26","estado_consulta":"informativo","servicio":"borrado","administrador":"Juan Carlos","consultas_realizadas":74}
